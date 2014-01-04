@@ -1,5 +1,4 @@
 # 3D Models
 
-#### test
+Gallery is <a href="http://blog.embodiedweb.net/3DModels/">here</a>.
 
-<iframe src="https://images1.sw-cdn.net/3dviewer?model=990775" width="482" height="357" frameborder="0"></iframe>
